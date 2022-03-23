@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Bertonc98/Bertonc98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Bertonc98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bertonc98&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bertonc98&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
